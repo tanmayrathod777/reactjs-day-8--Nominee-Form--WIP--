@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Open+Sans:wght@300&display=swap');
+
+form{
+    font-size: larger;
+    background-color: aliceblue;
+    box-shadow: 5px 2px 6px 4px rgb(217, 232, 232);
+    width: 500px;
+    margin-left: 500px;
+    padding: 0px 0px 0px 50px;
+    
+
+   
+}
+label {
+    position: sticky;
+}
+
+
+h1 {
+    
+    font-family: 'Macondo', cursive;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    border: 3px solid rgb(90, 111, 134);
+    box-shadow: 1px 1px 1px 1px rgb(95, 72, 72);
+    width: 380px;
+
+   
+}
+body {
+    background-color: rgb(72, 72, 78);
+    background-image: -moz-linear-gradient();
+}
+h5{
+    color: red;
+    font-family: monospace;
+    
+}
+#component-filled {
+    width: 350px;
+    box-shadow:2px 2px 2px 2px rgb(118, 116, 131);
+    position: sticky;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    
+}
+.btn {
+    position: absolute;
+}
